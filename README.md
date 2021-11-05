@@ -1,23 +1,13 @@
-# Personal User Manual Template
+# Personal User Manual
 
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
-
-### Serving Your Personal User Manual as a Website
-
-[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-user-manual`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
+Welcome to my Personal User Manual! You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first as this explains what these are about. To create your own, you can branch off this or [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
 
 ## About Me
 
 
 <details>
     <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+I grew up in the midwest (Indiana) and stayed for college and a bit after. I've been in Austin since 2014 and joined Unity at the end of 2020. Some of my hobbies include sand volleyball, rock climbing, running, biking, stand up paddleboarding, gaming (video/board), and cult classic movies.
 </details>
 
 ## How to Contact Me
@@ -25,7 +15,7 @@ Optional Section: You may want to fill out this as a section to help introduce y
 
 <details>
     <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+Slack will be the easiest way to reach me, as I try to clear out my notifications every day. Emails will be lost for a week or two at a time, so if you send something important via email, follow up with a Slack. As I'm sometimes in multiple mind spaces at once, I prefer important links/discussions/etc to be in writing, but a quick Zoom call or huddle is nice for long conversations or getting alignment/walking through something.
 </details>
 
 ## Preferred Working Style
@@ -33,7 +23,7 @@ Essential Section: You might want to think about some caveats here. Perhaps Slac
 
 <details>
     <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
+My flexible working hours are usually between 8am and 6pm central. I'm not a huge fan of meetings before 9, but I'm fine with some meetings at that time if it isn't every day of the week. 
 </details>
 
 ## What Motivates Me
