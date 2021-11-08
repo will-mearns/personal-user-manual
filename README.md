@@ -31,7 +31,7 @@ My flexible working hours are usually between 8am and 6pm central. I'm not a hug
 
 <details>
     <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
+I enjoy working on creative projects,training/helping others, and pulling insights by working with data.
 </details>
 
 ## What Demotivates Me
@@ -39,7 +39,7 @@ Recommended Section: Think about what gives you energy in work. What, about the 
 
 <details>
     <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
+My biggest motivator is probably working on something that no one will use or care about. Another big one is trying to solve problems that are outside of my control (or give the appearance of being so).
 </details>
 
 ## My Values (and what I value in others)
@@ -47,7 +47,7 @@ Recommended Section: The flip side of the above. Everyone has parts of their wor
 
 <details>
     <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
+I strive to be a servant leader for my teams and give them what they need to be happy at work. Part of this is having empathy and compassion for their specific scenarios. Part of it is organizing and guiding the work teams set out to accomplish. I always like to see others similarly and helping everyone as much as they can.
 </details>
 
 ## My Blind Spots
@@ -55,15 +55,7 @@ Recommended Section: Accepting that we all treat each other with empathy, care a
 
 <details>
     <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
-
-## My Pet Peeves
-
-
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
+The one spot that I've been having trouble covering is maintaining our backlog from a product and engineering perspective. I also haven't been able to cover a lot of things from the program perspective, since I've been trying to cover the low-level team gaps.
 </details>
 
 ## Other
@@ -71,10 +63,7 @@ Optional Section: It might be tempting to use this section to vent, that's absol
 
 <details>
     <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
-
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
+- "How I like my 1:1s" - Without an agenda and an open space to talk about whatever we want to, maybe 50% of the time relating to work.
+- "How to interpret my calendar" - Maybe's can be double booked. I won't attend meeting invites that overlap with my "Personal" calendar items. Ask before double-booking time I've blocked off for myself as it usually means I need to finish something for a deadline.
+- "What you can expect from me" - I try to meet with everyone at least once a month, so we can catch up and have time to work through whatever we need to. If I say I will do something, I will do it; sometimes it is just a question of when as my calendar sometimes have overlapping priorities.
 </details>
