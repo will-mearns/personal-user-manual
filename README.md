@@ -15,7 +15,7 @@ I grew up in the midwest (Indiana) and stayed for college and a bit after. I've 
 
 <details>
     <summary>Tips</summary>
-Slack will be the easiest way to reach me, as I try to clear out my notifications every day. Emails will be lost for a week or two at a time, so if you send something important via email, follow up with a Slack. As I'm sometimes in multiple mind spaces at once, I prefer important links/discussions/etc to be in writing, but a quick Zoom call or huddle is nice for long conversations or getting alignment/walking through something.
+Slack will be the easiest way to reach me, as I try to clear out my notifications every day. Emails may be lost for a week or two, so if you send something important via email, follow up with a Slack! As I'm sometimes in multiple mind spaces at once, I prefer important links/discussions/etc to be in writing, but a quick Zoom call or huddle is nice for long conversations or getting alignment/walking through something.
 </details>
 
 ## Preferred Working Style
@@ -23,7 +23,7 @@ Slack will be the easiest way to reach me, as I try to clear out my notification
 
 <details>
     <summary>Tips</summary>
-My flexible working hours are usually between 8am and 6pm central. I'm not a huge fan of meetings before 9, but I'm fine with some meetings at that time if it isn't every day of the week. 
+My flexible working hours are usually between 8am and 6pm central. I'm not a huge fan of meetings before 9, but I'm fine with some meetings at that time if it isn't every day of the week. I also like to at least be out in the sun for a little each day, so during the winters, I may prefer earlier finish times.
 </details>
 
 ## What Motivates Me
